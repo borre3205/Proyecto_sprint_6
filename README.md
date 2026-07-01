@@ -44,6 +44,9 @@ El análisis utiliza datos históricos de ventas de videojuegos por plataforma, 
 - **NA y EU** comparten preferencias similares (PS4, Shooter, clasificación M), mientras **JP** tiene un perfil muy distinto (3DS, Role-Playing, clasificación NE).
 - No hay diferencia significativa entre las calificaciones de usuarios de XOne y PC (p=0.61).
 - Sí hay diferencia significativa entre las calificaciones de Acción y Deportes (p≈5.8×10⁻¹⁹).
+<img width="580" height="478" alt="imagen(2)" src="https://github.com/user-attachments/assets/957b0753-d3b0-4485-906c-340c1167e7d0" />
+<img width="1229" height="702" alt="imagen(1)" src="https://github.com/user-attachments/assets/d6e509c5-6ccf-4287-999d-bd8bbec9682d" />
+<img width="1218" height="1240" alt="imagen" src="https://github.com/user-attachments/assets/c4ff5665-3e60-459c-b281-a00a232c4f36" />
 
 ## 🛠️ Stack técnico
 
